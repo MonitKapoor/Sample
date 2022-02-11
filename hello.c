@@ -1,10 +1,13 @@
 #include<stdio.h>
 {
-	printf("Hello neo world");
+	//printf("Hello neo world");
 	//comment 1
-	{//code here}
+	{//code is improvised}
 	//comment 2
 	{//code here}
 	//comment 3
-	{code here}
+	
+//
+	printf("Hello world");
+
 }
